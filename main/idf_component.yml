@@ -1,0 +1,8 @@
+# main/idf_component.yml
+version: "0.1.0"
+targets:
+  - esp32s3
+
+dependencies:
+  idf: ">=5.2"
+  espressif/esp-sr: "^2.0.0"
